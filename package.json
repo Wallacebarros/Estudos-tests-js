@@ -1,0 +1,12 @@
+{
+  "name": "estudos-tests",
+  "version": "1.0.0",
+  "description": "Estudos de testes unitários em javasrcript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
